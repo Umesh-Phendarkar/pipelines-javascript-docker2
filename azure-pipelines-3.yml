@@ -6,7 +6,7 @@ pool:
 
 variables:
   # Replace with the name of your target Docker Hub or Azure Container Registry repository
-  repositoryName: 'umeshphendarkar/oct21' 
+  repositoryName: 'oct21' 
 
 steps:
 - task: Docker@2
